@@ -1,0 +1,16 @@
+{
+  "appName": "Mortgage simulator",
+  "cancel": "Cancel",
+  "save": "Save",
+  "required": "Required",
+  "discard": {
+    "title": "Discard changes?",
+    "message": "You have unsaved changes. If you close now, they will be lost.",
+    "keep": "Keep editing",
+    "confirm": "Discard"
+  },
+  "menu": {
+    "Mortgages": "Mortgages"
+  },
+  "language": "Language"
+}

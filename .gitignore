@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+*.log
+*.tsbuildinfo
+.eslintcache
+.stylelintcache
+.vite/
+.env
+.env.local
+.DS_Store
+.claude
+.yarn/*
+!.yarn/releases
+.pnp.*

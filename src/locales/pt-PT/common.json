@@ -1,0 +1,16 @@
+{
+  "appName": "Simulador de crédito habitação",
+  "cancel": "Cancelar",
+  "save": "Guardar",
+  "required": "Obrigatório",
+  "discard": {
+    "title": "Descartar alterações?",
+    "message": "Tem alterações por guardar. Se fechar agora, serão perdidas.",
+    "keep": "Continuar a editar",
+    "confirm": "Descartar"
+  },
+  "menu": {
+    "Mortgages": "Créditos"
+  },
+  "language": "Idioma"
+}
