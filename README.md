@@ -17,18 +17,6 @@ It runs entirely in your browser and has no backend. Your loans are saved in thi
   for confirmation. The file is validated field by field first, and an invalid file changes
   nothing.
 
-### Moving loans over from our-house
-
-our-house caches the house's loans in its own `localStorage`. With our-house open and the
-Mortgages page loaded, run this in the devtools console:
-
-```js
-copy(JSON.stringify(JSON.parse(localStorage['mortgages-cache']).state.mortgages));
-```
-
-Paste the result into a `.json` file and **Import** it here. The our-house `houseId` field is
-dropped on import.
-
 ## Development
 
 Requires Node (see `.nvmrc`) and Yarn 4 (bundled in `.yarn/releases`).
